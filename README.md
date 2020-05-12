@@ -1,1 +1,1 @@
-# testsitemap
+http://dasbier.github.io/testsitemap
