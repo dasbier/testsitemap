@@ -4,14 +4,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://dasbier.github.io/testsitemap/</loc> 
+        <changefreq>always</changefreq>
     </url>
     <url>
         <loc>http://dasbier.github.io/testsitemap/dropdown</loc> 
+        <changefreq>always</changefreq>
     </url>
     <url>
         <loc>http://dasbier.github.io/testsitemap/secret</loc> 
+        <changefreq>always</changefreq>
     </url>
     <url>
         <loc>http://dasbier.github.io/testsitemap/why</loc> 
+        <changefreq>always</changefreq>
     </url>
 </urlset>
