@@ -17,4 +17,7 @@
     <url>
         <loc>http://dasbier.github.io/testsitemap/abc</loc>
     </url>
+    <url>
+        <loc>http://dasbier.github.io/testsitemap/xyz</loc>
+    </url>
 </urlset>
